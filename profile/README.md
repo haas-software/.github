@@ -11,8 +11,8 @@ We build custom applications, SaaS platforms and tools that make everyday work s
 | Project | What it does |
 | :--- | :--- |
 | [GoNet](https://github.com/haas-software/GoNet) | Run .NET programs and xunit test suites in pure Go on wazero, without a .NET runtime on the host. |
-| [lean](https://github.com/haas-software/lean) | Small Go packages that link only what you ask for. |
-| [stulp](https://github.com/haas-software/stulp) | A small, reliable home controller written in Go. |
+| [lean](https://github.com/haas-software/lean) | Small Rust crates that link only what you ask for. |
+| [stulp](https://github.com/haas-software/stulp) | A small, reliable home controller written in Rust. |
 | [markdown](https://github.com/haas-software/markdown) | A tiny block-based Markdown editor with zero dependencies and optional Alpine.js integration. |
 
 ### From software to bare metal
